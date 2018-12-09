@@ -8,7 +8,7 @@
 ## Dependencies
 
 [luarocks](http://luarocks.org:8080/)<br>
-[luasql](https://keplerproject.github.io/luasql/)<br>
+[luasql](https://keplerproject.github.io/luasql/) -- GPL [licensed](https://keplerproject.github.io/luasql/license.html)<br>
 Postgres with user access
 
 ## Usage
